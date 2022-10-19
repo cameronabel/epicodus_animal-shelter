@@ -7,6 +7,8 @@
   float: left;
   margin-left: 2vw;
   margin-right: 2vw;
+  color:hotpink;
+  background-color: red;
 }
 
 .centered-img {
@@ -15,4 +17,19 @@
 
 h3 {
   text-align: center;
+}
+
+body p {
+  text-align: center;
+  width: 70vw;
+  margin: auto;
+}
+
+div p {
+  text-align: left;
+  width: 28vw;
+}
+
+html {
+  background-color: orange;
 }
