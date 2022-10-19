@@ -1,3 +1,18 @@
 .header {
   text-align: center;
 }
+
+.columns {
+  width: 28vw;
+  float: left;
+  margin-left: 2vw;
+  margin-right: 2vw;
+}
+
+.centered-img {
+  width: 100%;
+}
+
+h3 {
+  text-align: center;
+}
